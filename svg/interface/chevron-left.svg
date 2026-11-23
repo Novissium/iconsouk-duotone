@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <path fill="var(--isk-accent,#22B8D8)" fill-opacity=".5" fill-rule="evenodd" d="M8.93 12.00 15.55 5.37 15.65 5.13 15.65 4.87 15.55 4.63 15.37 4.45 15.13 4.35 14.94 4.34 14.75 4.39 14.53 4.53 7.64 11.43 7.53 11.58 7.46 11.76 7.46 12.24 7.53 12.42 7.64 12.57 14.53 19.47 14.81 19.63 15.13 19.65 15.31 19.58 15.47 19.47 15.63 19.19 15.65 18.87 15.51 18.58Z"/>
+  <path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" d="M15.00 5.00 8.11 11.89 8.11 12.11 15.00 19.00"/>
+</svg>
